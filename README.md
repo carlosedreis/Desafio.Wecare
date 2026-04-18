@@ -7,11 +7,3 @@
 <p>HTML</p>
 <p>CSS</p>
 <img src="https://github.com/carlosedreis/Desafio.Wecare/blob/master/img/projeto-we-care.png?raw=true"/>
-
-
-
-
-
-
-
-https://github.com/carlosedreis/Desafio.Wecare/blob/master/img/projeto-we-care.png?raw=true
