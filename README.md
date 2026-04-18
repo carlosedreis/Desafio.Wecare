@@ -1,4 +1,4 @@
-<h2>Este é um projeto que aprendi no <a href="https://www.devclub.com.br/" target="_blank">Dev Club</a></h2>
+<h2>Este é um projeto que aprendi no <a href="https://www.devclub.com.br/" target="_blank">Dev Club</a> em forma de desafio</h2>
 <br>
 <h1>WE CARE</h1>
 <h2>About Your Pet</h2>
